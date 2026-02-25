@@ -1,0 +1,8 @@
+# LazyVim lock file — regenerated automatically, optional to commit
+# Uncomment the next line if you want reproducible plugin versions:
+# (keeping it tracked is actually recommended by LazyVim)
+# nvim/lazy-lock.json
+
+# Neovim swap/backup files
+nvim/*.swp
+nvim/*.swo
